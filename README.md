@@ -1,2 +1,13 @@
-# Awesome-Insurtech
-A curated list of insurance related technology across the business line
+# Awesome-Insurance
+A curated list of insurance related technologies
+
+
+## Distribution
+
+## Product Development
+
+## Underwriting and Pricing
+
+## Claims Processing
+
+## Customer Engagement
